@@ -1,0 +1,29 @@
+C:\Users\Aleksandra\source\repos\Lab13\Lab13\obj\Debug\Lab13.csprojAssemblyReference.cache
+C:\Users\Aleksandra\source\repos\Lab13\Lab13\obj\Debug\Lab13.Form1.resources
+C:\Users\Aleksandra\source\repos\Lab13\Lab13\obj\Debug\Lab13.Properties.Resources.resources
+C:\Users\Aleksandra\source\repos\Lab13\Lab13\obj\Debug\Lab13.csproj.GenerateResource.cache
+C:\Users\Aleksandra\source\repos\Lab13\Lab13\bin\Debug\Lab13.exe.config
+C:\Users\Aleksandra\source\repos\Lab13\Lab13\bin\Debug\Lab13.exe
+C:\Users\Aleksandra\source\repos\Lab13\Lab13\bin\Debug\Lab13.pdb
+C:\Users\Aleksandra\source\repos\Lab13\Lab13\obj\Debug\Lab13.exe
+C:\Users\Aleksandra\source\repos\Lab13\Lab13\obj\Debug\Lab13.pdb
+C:\Users\Aleksandra\source\repos\Lab13\Lab13\obj\Debug\Lab13.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandra\Desktop\Lab13\Lab13\bin\Debug\Lab13.exe.config
+C:\Users\Aleksandra\Desktop\Lab13\Lab13\bin\Debug\Lab13.exe
+C:\Users\Aleksandra\Desktop\Lab13\Lab13\bin\Debug\Lab13.pdb
+C:\Users\Aleksandra\Desktop\Lab13\Lab13\obj\Debug\Lab13.csprojAssemblyReference.cache
+C:\Users\Aleksandra\Desktop\Lab13\Lab13\obj\Debug\Lab13.Form1.resources
+C:\Users\Aleksandra\Desktop\Lab13\Lab13\obj\Debug\Lab13.Properties.Resources.resources
+C:\Users\Aleksandra\Desktop\Lab13\Lab13\obj\Debug\Lab13.csproj.GenerateResource.cache
+C:\Users\Aleksandra\Desktop\Lab13\Lab13\obj\Debug\Lab13.exe
+C:\Users\Aleksandra\Desktop\Lab13\Lab13\obj\Debug\Lab13.pdb
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\pz\pomoce\pz_labki\Lab13\Lab13\bin\Debug\Lab13.exe.config
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\pz\pomoce\pz_labki\Lab13\Lab13\bin\Debug\Lab13.exe
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\pz\pomoce\pz_labki\Lab13\Lab13\bin\Debug\Lab13.pdb
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\pz\pomoce\pz_labki\Lab13\Lab13\obj\Debug\Lab13.csprojAssemblyReference.cache
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\pz\pomoce\pz_labki\Lab13\Lab13\obj\Debug\Lab13.Form1.resources
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\pz\pomoce\pz_labki\Lab13\Lab13\obj\Debug\Lab13.Properties.Resources.resources
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\pz\pomoce\pz_labki\Lab13\Lab13\obj\Debug\Lab13.csproj.GenerateResource.cache
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\pz\pomoce\pz_labki\Lab13\Lab13\obj\Debug\Lab13.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\pz\pomoce\pz_labki\Lab13\Lab13\obj\Debug\Lab13.exe
+C:\Users\Aleksandra\Desktop\Projekty rozne\c#\pz\pomoce\pz_labki\Lab13\Lab13\obj\Debug\Lab13.pdb

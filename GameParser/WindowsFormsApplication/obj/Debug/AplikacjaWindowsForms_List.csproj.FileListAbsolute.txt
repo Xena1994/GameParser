@@ -1,0 +1,60 @@
+C:\Users\mp\Desktop\sem6\PZ\Lab13\mp_PZ_Lab13_01\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe.config
+C:\Users\mp\Desktop\sem6\PZ\Lab13\mp_PZ_Lab13_01\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+C:\Users\mp\Desktop\sem6\PZ\Lab13\mp_PZ_Lab13_01\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb
+C:\Users\mp\Desktop\sem6\PZ\Lab13\mp_PZ_Lab13_01\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+C:\Users\mp\Desktop\sem6\PZ\Lab13\mp_PZ_Lab13_01\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+C:\Users\mp\Desktop\sem6\PZ\Lab13\mp_PZ_Lab13_01\WindowsFormsApplication\obj\Debug\AplikacjaWindowsForms_List.csprojResolveAssemblyReference.cache
+C:\Users\mp\Desktop\sem6\PZ\Lab13\mp_PZ_Lab13_01\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Form1.resources
+C:\Users\mp\Desktop\sem6\PZ\Lab13\mp_PZ_Lab13_01\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+C:\Users\mp\Desktop\sem6\PZ\Lab13\mp_PZ_Lab13_01\WindowsFormsApplication\obj\Debug\AplikacjaWindowsForms_List.csproj.GenerateResource.Cache
+C:\Users\mp\Desktop\sem6\PZ\Lab13\mp_PZ_Lab13_02\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe.config
+C:\Users\mp\Desktop\sem6\PZ\Lab13\mp_PZ_Lab13_02\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+C:\Users\mp\Desktop\sem6\PZ\Lab13\mp_PZ_Lab13_02\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb
+C:\Users\mp\Desktop\sem6\PZ\Lab13\mp_PZ_Lab13_03\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe.config
+C:\Users\mp\Desktop\sem6\PZ\Lab13\mp_PZ_Lab13_03\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+C:\Users\mp\Desktop\sem6\PZ\Lab13\mp_PZ_Lab13_03\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb
+C:\Users\mp\Desktop\sem6\PZ\Lab13\mp_PZ_Lab13_03\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+C:\Users\mp\Desktop\sem6\PZ\Lab13\mp_PZ_Lab13_03\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+C:\Users\mp\Desktop\sem6\PZ\Lab13\mp_PZ_Lab13_03\WindowsFormsApplication\obj\Debug\AplikacjaWindowsForms_List.csprojResolveAssemblyReference.cache
+C:\Users\mp\Desktop\sem6\PZ\Lab13\mp_PZ_Lab13_03\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Form1.resources
+C:\Users\mp\Desktop\sem6\PZ\Lab13\mp_PZ_Lab13_03\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+C:\Users\mp\Desktop\sem6\PZ\Lab13\mp_PZ_Lab13_03\WindowsFormsApplication\obj\Debug\AplikacjaWindowsForms_List.csproj.GenerateResource.Cache
+C:\Users\maxsy\Desktop\Nowy folder\mp_PZ_Lab13_03\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe.config
+C:\Users\maxsy\Desktop\Nowy folder\mp_PZ_Lab13_03\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+C:\Users\maxsy\Desktop\Nowy folder\mp_PZ_Lab13_03\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+C:\Users\maxsy\Desktop\Nowy folder\mp_PZ_Lab13_03\WindowsFormsApplication\obj\Debug\AplikacjaWindowsForms_List.csprojResolveAssemblyReference.cache
+C:\Users\maxsy\Desktop\Nowy folder\mp_PZ_Lab13_03\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Form1.resources
+C:\Users\maxsy\Desktop\Nowy folder\mp_PZ_Lab13_03\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+C:\Users\maxsy\Desktop\Nowy folder\mp_PZ_Lab13_03\WindowsFormsApplication\obj\Debug\AplikacjaWindowsForms_List.csproj.GenerateResource.Cache
+C:\Users\maxsy\Desktop\Nowy folder\mp_PZ_Lab13_03\WindowsFormsApplication\obj\Debug\AplikacjaWindowsForms_List.csproj.CoreCompileInputs.cache
+C:\Users\maxsy\Desktop\Nowy folder\mp_PZ_Lab13_03\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+C:\Users\maxsy\Desktop\Nowy folder\mp_PZ_Lab13_03\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb
+C:\Users\maxsy\Desktop\Nowy folder\lab13\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe.config
+C:\Users\maxsy\Desktop\Nowy folder\lab13\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+C:\Users\maxsy\Desktop\Nowy folder\lab13\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+C:\Users\maxsy\Desktop\Nowy folder\lab13\WindowsFormsApplication\obj\Debug\AplikacjaWindowsForms_List.csprojResolveAssemblyReference.cache
+C:\Users\maxsy\Desktop\Nowy folder\lab13\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Form1.resources
+C:\Users\maxsy\Desktop\Nowy folder\lab13\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+C:\Users\maxsy\Desktop\Nowy folder\lab13\WindowsFormsApplication\obj\Debug\AplikacjaWindowsForms_List.csproj.GenerateResource.Cache
+C:\Users\maxsy\Desktop\Nowy folder\lab13\WindowsFormsApplication\obj\Debug\AplikacjaWindowsForms_List.csproj.CoreCompileInputs.cache
+C:\Users\maxsy\Desktop\Nowy folder\lab13\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+C:\Users\maxsy\Desktop\Nowy folder\lab13\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb
+C:\Users\Aleksandra\Desktop\UPH\warunek pz\pomoce\pz_labki\PZ_doma\Lab13\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe.config
+C:\Users\Aleksandra\Desktop\UPH\warunek pz\pomoce\pz_labki\PZ_doma\Lab13\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+C:\Users\Aleksandra\Desktop\UPH\warunek pz\pomoce\pz_labki\PZ_doma\Lab13\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+C:\Users\Aleksandra\Desktop\UPH\warunek pz\pomoce\pz_labki\PZ_doma\Lab13\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Form1.resources
+C:\Users\Aleksandra\Desktop\UPH\warunek pz\pomoce\pz_labki\PZ_doma\Lab13\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+C:\Users\Aleksandra\Desktop\UPH\warunek pz\pomoce\pz_labki\PZ_doma\Lab13\WindowsFormsApplication\obj\Debug\AplikacjaWindowsForms_List.csproj.GenerateResource.cache
+C:\Users\Aleksandra\Desktop\UPH\warunek pz\pomoce\pz_labki\PZ_doma\Lab13\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+C:\Users\Aleksandra\Desktop\UPH\warunek pz\pomoce\pz_labki\PZ_doma\Lab13\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb
+C:\Users\Aleksandra\Desktop\UPH\warunek pz\pomoce\pz_labki\PZ_doma\Lab13\WindowsFormsApplication\obj\Debug\AplikacjaWindowsForms_List.csprojAssemblyReference.cache
+C:\Users\Aleksandra\Desktop\UPH\warunek pz\pomoce\pz_labki\PZ_doma\Lab13\WindowsFormsApplication\obj\Debug\AplikacjaWindowsForms_List.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandra\Desktop\Lab13\WindowsFormsApplication\obj\Debug\AplikacjaWindowsForms_List.csprojAssemblyReference.cache
+C:\Users\Aleksandra\Desktop\Lab13\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Form1.resources
+C:\Users\Aleksandra\Desktop\Lab13\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+C:\Users\Aleksandra\Desktop\Lab13\WindowsFormsApplication\obj\Debug\AplikacjaWindowsForms_List.csproj.GenerateResource.cache
+C:\Users\Aleksandra\Desktop\Lab13\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+C:\Users\Aleksandra\Desktop\Lab13\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb
+C:\Users\Aleksandra\Desktop\Lab13\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe.config
+C:\Users\Aleksandra\Desktop\Lab13\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+C:\Users\Aleksandra\Desktop\Lab13\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb

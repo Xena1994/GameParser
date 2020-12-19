@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Gildia>
+  <Wojownik Plec="M">
+    <Imie>Joe</Imie>
+    <Sila>10</Sila>
+    <Zdrowie>50</Zdrowie>
+    <Przeciwnik>sd</Przeciwnik>
+  </Wojownik>
+  <Wojownik Plec="M">
+    <Imie>Ewan</Imie>
+    <Sila>11</Sila>
+    <Zdrowie>55</Zdrowie>
+    <Przeciwnik>sd</Przeciwnik>
+  </Wojownik>
+  <Wojownik Plec="M">
+    <Imie>Joe</Imie>
+    <Sila>12</Sila>
+    <Zdrowie>60</Zdrowie>
+    <Przeciwnik>sd</Przeciwnik>
+  </Wojownik>
+</Gildia>

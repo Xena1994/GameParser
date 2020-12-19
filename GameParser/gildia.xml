@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Gildia>
+  <Wojownik Plec="Mezczyzna">
+    <Imie>Legolas</Imie>
+    <Sila>7</Sila>
+    <Zdrowie>20</Zdrowie>
+    <Potwor>Eragon</Potwor>
+  </Wojownik>
+  <Wojownik Plec="Kobieta">
+    <Imie>Xena</Imie>
+    <Sila>5</Sila>
+    <Zdrowie>17</Zdrowie>
+    <Potwor>Cerber</Potwor>
+  </Wojownik>
+  <Wojownik Plec="Mezczyzna">
+    <Imie>Aragorn</Imie>
+    <Sila>3</Sila>
+    <Zdrowie>10</Zdrowie>
+    <Potwor>Sauron</Potwor>
+  </Wojownik>
+</Gildia>
